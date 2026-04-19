@@ -1,4 +1,5 @@
-JSP Form Project
+JSP Form Project.
+
 This project is a basic HTML form developed using JSP (JavaServer Pages) that collects candidate information and displays the submitted data on another page.
 
 Features:
