@@ -23,7 +23,9 @@ Java(Servlet API),
 Apache Tomcat (for deployment).
 
 Screenshots:
+
 ![Form](Form_img.png) 
+
 ![Output](Form_action_img.png)
 
 How to Run the Project:
