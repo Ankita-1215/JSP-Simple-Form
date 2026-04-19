@@ -22,8 +22,9 @@ JSP,
 Java(Servlet API),
 Apache Tomcat (for deployment).
 
-Screenshot ![Form](Form_img.png) 
-Screenshot ![Output](Form_action_img.png)
+Screenshots:
+![Form](Form_img.png) 
+![Output](Form_action_img.png)
 
 How to Run the Project:
 
