@@ -3,17 +3,18 @@ This project is a basic HTML form developed using JSP (JavaServer Pages) that co
 
 Features:
 Collect Candidate Details like:
-Name
-Password
-Hobbies
-Gender
-Country
-Comments
+Name,
+Password,
+Hobbies,
+Gender,
+Country,
+Comments.
+
 Displays submitted data dynamically using JSP.
 Demonstrates form handling using request.getParameter() and request.getParameterValues().
 
 Technologies Used:
-HTML
-JSP
-Java(Servlet API)
-Apache Tomcat (for deployment)
+HTML,
+JSP,
+Java(Servlet API),
+Apache Tomcat (for deployment).
